@@ -1,0 +1,31 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "A text-based Hangman game via NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celliott113/ConstructorHangman.git"
+  },
+  "keywords": [
+    "Constructor",
+    "Hangman",
+    "NodeJS",
+    "Node.js",
+    "JavaScript",
+    "NPM"
+  ],
+  "author": "Christopher Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celliott113/ConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/celliott113/ConstructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "is-letter": "^1.1.1"
+  }
+}
